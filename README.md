@@ -11,7 +11,7 @@ Le but du programme est d'être mis à disposition des personnes travaillant sur
 ## Adaptation informatique
 ### Grille
 J'ai choisi le langage C, sans librairies, pour pouvoir m'entraîner sur celui-ci. J'ai donc subi quelques difficultées / restrictions dans mon projet. 
-<br> Premièrement j'ai modéliser le système de lignes et de points par des grilles à la façon de matrices. J'ai fait en sorte que ce système puisse être réutiliser pour d'autres projets.
+<br> Premièrement j'ai modélisé le système de lignes et de points par des grilles à la façon de matrices. J'ai fait en sorte que ce système puisse être réutilisé pour d'autres projets.
 ```text
 ---
 Grille de depart
@@ -31,4 +31,4 @@ J'ai donc voulu faire en sorte que n'importe qui puisse se battre contre un robo
 
 Elle fonctionne de cette façon : 
 * Vérification des lignes et colonnes prioritaires (*Exemple : si une ligne est attaquée par deux points, la défense va être prioritaire sur cette ligne par rapport à une ligne qui n'est qu'attaquée que d'un point*).
-* Placement de la ligne/colonne/diagonnale (*en développement*) prioritaire.
+* Placement de la ligne/colonne/diagonale (*en développement*) prioritaire.
