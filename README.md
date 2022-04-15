@@ -1,5 +1,5 @@
 # MATh en JEANS 2021-2022 : Traceur-Briseur
-##Description
+## Description
 Programme réalisé sur l'année scolaire 2021-2022 dans le cadre du [projet MATh en JEANS](https://www.mathenjeans.fr) sur [le sujet du "Traceur-Briseur"](https://www.mathenjeans.fr/content/lycee-rene-perrin-ugine-2021-2022).
 
 ## Le sujet
