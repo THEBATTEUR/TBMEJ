@@ -1,6 +1,6 @@
 # MATh en JEANS 2021-2022 : Traceur-Briseur
 ## Description
-Programme réalisé sur l'année scolaire 2021-2022 dans le cadre du [projet MATh en JEANS](https://www.mathenjeans.fr) sur [le sujet du "Traceur-Briseur"](https://www.mathenjeans.fr/content/lycee-rene-perrin-ugine-2021-2022).
+Programme réalisé sur l'année scolaire 2021-2022 dans le cadre du [projet MATh en JEANS](https://www.mathenjeans.fr) sur [le sujet du "Traceur-Briseur"](https://www.mathenjeans.fr/content/traceur-contre-briseur-de-lignes-lycee-rene-perrin-ugine).
 
 ## Le sujet
 "Pour jouer au jeu nous avons besoin d'un certain nombre *L* de lignes, chacune ayant le même nombre *p* de points. Deux joueurs, traceur et briseur, colorient chacun leur tour un point. Quand un pont a été colorié il ne change plus de couleur le long de la partie. Le but du traceur est de colorier tous les points d'une ligne, le but du briseur est que le traceur ne réussisse pas son objectif. Y a-t-il un des deux joueurs qui a une stratégie gagnante ? Cela dépend-t-il du nombre de lignes ? Du joueur qui commence ? De la configuration ?"
